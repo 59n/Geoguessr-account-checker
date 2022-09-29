@@ -5,7 +5,6 @@ Python based Geoguessr account checker which captures if account has are pro or 
 
 --------------------------------------
 ### Installation
-- Download the latest release, open command prompt in the folder, run `pip install -r requirements.txt`
 - Load your combo in combo.txt
 - Open tool and select threads amount (Recommended under 400)
 
